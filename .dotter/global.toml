@@ -1,0 +1,17 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+btop = "~/.config/btop"
+fastfetch = "~/.config/fastfetch"
+fish = "~/.config/fish"
+kitty = "~/.config/kitty"
+spicetify = "~/.config/spicetify"
+"starship.toml" = "~/.config/starship.toml"
+
+[default.variables]
+
+[settings]
+default_target_type = "automatic"
